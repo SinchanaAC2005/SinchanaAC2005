@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinchanaac2005&show_icons=true&locale=en" alt="sinchanaac2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinchanaac2005&" alt="sinchanaac2005" /></p>
+
 
 <!--
 **SinchanaAC2005/SinchanaAC2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
