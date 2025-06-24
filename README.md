@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Frontend Projects.
+- 🌱 I’m currently learning Node.js, React.js, MERN Stack
+- 📫 How to reach me:
+  - Email : acsinchana2005@gmail.com
+  - LinkedIn : [LinkedIn](www.linkedin.com/in/sinchana-a-c-a29861336) 
 <!--
 **SinchanaAC2005/SinchanaAC2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
