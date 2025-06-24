@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Sinchana A C
 
 - 🔭 I’m currently working on Frontend Projects.
 - 🌱 I’m currently learning Node.js, React.js, MERN Stack
